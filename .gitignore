@@ -1,0 +1,4 @@
+.openai/
+*.png
+STORYBOARD.md
+.DS_Store
